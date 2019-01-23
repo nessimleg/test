@@ -8,6 +8,6 @@ Title 1
 
 #### Sub-subtitle
 
-Blabla bla BLA
+Blabla bla
 
 see [mardown syntax](TODO)
